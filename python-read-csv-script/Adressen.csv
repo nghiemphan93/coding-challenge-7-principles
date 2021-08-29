@@ -1,0 +1,102 @@
+'Nr.';'Vorname';'Nachname';'Geburtsdatum';'Straße';'Hausnummer';'Postleitzahl';'Stadt';'Telefon';'Mobil';'EMail';'Newsletter'
+
+'1';'Cindy';'Jensch-Bötcher';'19.10.1945';'Backesstraße';'196';'97320';'Buchbrunn';'09321/81123512';'';'cindy_jenschboetcher@inter-mail.none';''
+
+'2';'Mischel';'Nix';'16.11.1992';'Mühlentalweg';'90';'78592';'Egesheim';'';'0168/7009745';'mischel.nix@web.none';'nein'
+
+'3';'Philip Aaron';'Sobottka';'24.02.1998';'Alte-Wipperfürther-Straße';'139';'37218';'Witzenhausen';'05542/48851255';'0160/3556644';'philipaaron_sobottka@live-mail.none';'ja'
+
+'4';'Edelbert';'Pelz-Neumann';'20.10.1913';'Am Weiherhof';'70';'76694';'Forst';'07251/4409262';'0172/2497082';'edelbertpelzneumann@private.none';'ja'
+
+'5';'Heidrun';'Strobl';'24.03.1973';'An der Koppe';'95';'50969';'Köln';'0221/70621979';'0179/2777927';'heidrun.73@company.none';'nein'
+
+'6';'Wolfdieter';'von der Eckhard';'30.06.2015';'Auf dem Schelberg';'150';'76756';'Bellheim';'07272/96996692';'0172/7731035';'wolfdieter-2015@email.none';'ja'
+
+'7';'Ute-Karina';'Wegert';'05.01.1916';'Peter-Weiler-Straße';'187';'21646';'Halvesbostel';'04165/77616141';'';'ukarina.wegert@bestmail.none';''
+
+'8';'Justus';'Vollbrecht';'14.01.1928';'Aloys-Barth-Straße';'198';'54647';'Dudeldorf';'06565/56969563';'0165/4556261';'';'nein'
+
+'9';'Tristan';'Frye';'09.04.2013';'Benolper Straße';'177';'79276';'Reute';'07641/53047614';'0164/8453830';'tfrye@web.none';'ja'
+
+'10';'Rico';'Boch';'08.11.1948';'Im Unteren Marktfeld';'111 b';'94034';'Passau';'0851/70108571';'0153/6410477';'';'ja'
+
+'11';'Egidius';'Bublitz';'';'In Heunbächeln';'177';'30159';'Hannover';'0511/28188985';'0169/3091240';'egidius_bublitz@open-mail.none';''
+
+'12';'Wernfried Karl';'Dörner';'27.04.1993';'Hardtwaldstraße';'192';'95512';'Neudrossenfeld';'09203/99021370';'0156/2153656';'w_doerner@goggle-mail.none';''
+
+'13';'Marlen';'Johannes';'19.08.1910';'Robertstraße';'144';'54597';'Euscheid';'06550/70178897';'0176/8722837';'';'ja'
+
+'14';'Robby';'Eichinger';'';'Ziegelstraße';'109';'54570';'Hinterweiler';'06592/79297893';'0177/3878606';'';''
+
+'15';'Enno';'Dieter-Breitling';'06.01.1982';'Am Hauptbahnhof';'100';'56294';'Gappenach';'02654/25221390';'0156/8238404';'enno-dieter_breitling@validmail.none';''
+
+'16';'Bernhart';'Schaal';'05.02.1903';'Riedweg';'111';'53520';'Wershofen';'02694/65920833';'0158/9171024';'b03@inter-mail.none';''
+
+'17';'Sigtrud';'Blöchl';'16.02.1953';'Düngenheimer Straße';'90';'88430';'Rot an der Rot';'08395/40597977';'';'sigtrud.bloechl@bestmail.none';''
+
+'18';'Jonas';'Hüttl';'';'Juliusstraße';'20';'57639';'Oberdreis';'';'0153/2368562';'jonas.huettl@open-mail.none';''
+
+'19';'Sighilde';'Friedhoff';'26.02.1954';'Elsternweg';'123';'79341';'Kenzingen';'07644/18470712';'';'';'ja'
+
+'20';'Mira';'Hergert-Jander';'23.07.2015';'Wurmerich';'95';'86984';'Prem';'08862/3011239';'';'';'ja'
+
+'21';'Liebhardt';'Vieten';'12.11.2002';'In der Trift';'35';'88167';'Röthenbach';'';'0166/7192082';'l-vieten@goggle-mail.none';'nein'
+
+'22';'Niclas';'Zacherl';'';'Windmühlenstraße';'103';'37127';'Dransfeld';'05502/15878603';'0153/1231910';'niclas-zacherl@goggle-mail.none';''
+
+'23';'Tilmann';'Friedhoff';'';'Calmontstraße';'163';'26935';'Stadland';'';'0178/1452380';'';'ja'
+
+'24';'Alfhard';'Rockel';'22.09.1971';'Käuserstruth';'92';'88489';'Wain';'07353/87866739';'';'a_rockel@justmail.none';'nein'
+
+'25';'Lion';'Stefan-Palmer';'21.05.1984';'Rahmerweg';'181';'46483';'Wesel am Rhein';'0281/82340310';'0153/4404046';'lion_stefanpalmer@inter-mail.none';''
+
+'26';'Immanuel';'Ehmer';'04.11.2019';'Waldbröler Straße';'135';'42929';'Wermelskirchen';'02196/38218810';'0154/7054975';'';''
+
+'27';'Marfried';'von Maaßen';'08.10.2012';'Sterntalerweg';'156';'14641';'Nauen';'03321/66426314';'';'m.vonmaassen@trashmail.none';''
+
+'28';'Annalene';'Seitz';'26.10.1945';'Mollsiepen';'33';'21640';'Horneburg';'';'0172/6882660';'a-seitz@hoster.none';''
+
+'29';'Rosie';'Scheider';'';'Wester';'47';'07806';'Lausnitz';'';'0157/2253148';'rosiescheider@company.none';''
+
+'30';'Madeleine';'Broich';'08.08.2004';'Nonnbachstraße';'33';'54290';'Trier';'0651/85513811';'0167/5895321';'madeleinebroich@inter-mail.none';''
+
+'31';'Joelina';'Muhl';'';'Westallee';'46';'27628';'Uthlede';'04746/71115382';'0159/2000470';'joelina-muhl@email.none';'ja'
+
+'32';'Renald';'Hoffmeyer';'11.02.2019';'Salon-de-Provence-Ring';'185';'65558';'Burgschwalbach';'06430/12226956';'0156/5220106';'rhoffmeyer@goggle-mail.none';'ja'
+
+'33';'Feli';'Frost';'';'Teutonenstraße';'145';'56379';'Hömberg';'02604/76436404';'';'feli_frost@web.none';'ja'
+
+'34';'Alrun';'Kirch';'02.03.1960';'Am Krähenacker';'196';'96117';'Memmelsdorf';'0951/33872278';'0167/3122944';'alrun.kirch@bestmail.none';'ja'
+
+'35';'Mattis-Friedmuth';'Friedhoff';'';'Konrad-Adenauer-Platz';'111';'21698';'Bargstedt';'04762/78583731';'';'mattis.friedmuth.friedhoff@funmail.none';''
+
+'36';'Marlene';'Kocak';'';'Leybergweg';'148';'49843';'Uelsen';'05942/35711352';'0159/6213115';'m_kocak@inter-mail.none';'ja'
+
+'37';'Hermann';'Streubel';'08.10.1987';'Uesser Weg';'167';'65604';'Elz';'';'0178/7456448';'';''
+
+'38';'Hansjörg Bertold';'Riek';'01.04.1928';'Orffstraße';'15';'76889';'Niederhorbach';'06343/32936723';'0151/2936130';'';'ja'
+
+'39';'Sebastian';'zu Raum';'';'In der Eule';'32';'86694';'Niederschönenfeld';'09090/76946318';'0150/8156880';'s.zuraum@validmail.none';''
+
+'40';'Mohammed';'Goldmann';'29.06.1992';'Lübecker Weg';'7';'54576';'Dohm-Lammersdorf';'';'0162/5015273';'mohammed-goldmann@company.none';''
+
+'41';'Cornelia';'Rist';'';'Vogelsang';'140 c';'52066';'Aachen';'0241/28001807';'';'cornelia-rist@quickmail.none';'ja'
+
+'42';'Ela';'von Puhl';'08.10.1944';'Steinerbergstraße';'172 c';'38162';'Cremlingen';'';'0167/7377725';'';''
+
+'43';'Heimwald';'Weishäupl';'17.03.1903';'Georg-Appel-Straße';'180';'91233';'Neunkirchen am Sand';'09123/35386592';'0155/8107978';'';'ja'
+
+'44';'Heidetraud-Caroline';'Spiekermann';'22.11.1959';'Flughafenstraße';'166';'29378';'Wittingen';'05831/66752254';'0150/5233346';'heidetraud-carolinespiekermann@company.none';''
+
+'45';'Herko';'Mensing';'';'Dr.-Mutterer-Straße';'34';'79793';'Wutöschingen';'07746/33236002';'0154/4497765';'herko-mensing@net-mail.none';''
+
+'46';'Veit';'Lehnhoff';'02.07.1914';'Pestelstraße';'83';'41352';'Korschenbroich';'02161/28840552';'0150/9363956';'veitlehnhoff@goggle-mail.none';'ja'
+
+'47';'Jens';'Brühl';'20.02.1909';'Ursulastraße';'70';'56753';'Mertloch';'02654/31959664';'0166/9285557';'jens-bruehl@funmail.none';''
+
+'48';'Friderika';'Höpfl-Allmann';'29.04.1954';'Reinersweg';'17';'58507';'Lüdenscheid';'02351/90906456';'0175/6121072';'fhoepfl_allmann@retromail.none';'ja'
+
+'49';'Torben';'Reiß';'27.02.2011';'Oleftal';'150';'54552';'Brockscheid';'06592/87025799';'0165/2375818';'t_2011@bestmail.none';''
+
+'50';'Erna Katja';'Viehweger';'17.05.1956';'Zum Heisterholz';'4';'14776';'Brandenburg an der Havel';'03381/42352897';'0167/7037073';'ernakatja-viehweger@spam-mail.none';'ja'
+
