@@ -28,5 +28,5 @@ public class Address {
     private String phone;
     private String mobile;
     private String email;
-    private String newsletter;
+    private boolean newsletter;
 }

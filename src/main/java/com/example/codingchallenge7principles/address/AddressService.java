@@ -34,7 +34,7 @@ public class AddressService {
         address.setPhone(addressDto.getPhone());
         address.setMobile(addressDto.getMobile());
         address.setEmail(addressDto.getEmail());
-        address.setNewsletter(addressDto.getNewsletter());
+        address.setNewsletter(addressDto.isNewsletter());
         return address;
     }
 
